@@ -1,0 +1,14 @@
+C:\Users\asirotkina\source\repos\csharp_training\addressbook_tests_autoit\addressbook_tests_autoit\bin\Debug\addressbook_tests_autoit.dll
+C:\Users\asirotkina\source\repos\csharp_training\addressbook_tests_autoit\addressbook_tests_autoit\bin\Debug\addressbook_tests_autoit.pdb
+C:\Users\asirotkina\source\repos\csharp_training\addressbook_tests_autoit\addressbook_tests_autoit\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\asirotkina\source\repos\csharp_training\addressbook_tests_autoit\addressbook_tests_autoit\bin\Debug\nunit.framework.dll
+C:\Users\asirotkina\source\repos\csharp_training\addressbook_tests_autoit\addressbook_tests_autoit\bin\Debug\nunit.framework.pdb
+C:\Users\asirotkina\source\repos\csharp_training\addressbook_tests_autoit\addressbook_tests_autoit\bin\Debug\nunit.framework.xml
+C:\Users\asirotkina\source\repos\csharp_training\addressbook_tests_autoit\addressbook_tests_autoit\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\asirotkina\source\repos\csharp_training\addressbook_tests_autoit\addressbook_tests_autoit\obj\Debug\addressbook_tests_autoit.csproj.ResolveComReference.cache
+C:\Users\asirotkina\source\repos\csharp_training\addressbook_tests_autoit\addressbook_tests_autoit\obj\Debug\addressbook_tests_autoit.dll
+C:\Users\asirotkina\source\repos\csharp_training\addressbook_tests_autoit\addressbook_tests_autoit\obj\Debug\addressbook_tests_autoit.pdb
+C:\Users\asirotkina\source\repos\csharp_training\addressbook_tests_autoit\addressbook_tests_autoit\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\asirotkina\source\repos\csharp_training\addressbook_tests_autoit\addressbook_tests_autoit\obj\Debug\addressbook_tests_autoit.csprojAssemblyReference.cache
+C:\Users\asirotkina\source\repos\csharp_training\addressbook_tests_autoit\addressbook_tests_autoit\obj\Debug\addressbook_tests_autoit.csproj.CoreCompileInputs.cache
+C:\Users\asirotkina\source\repos\csharp_training\addressbook_tests_autoit\addressbook_tests_autoit\obj\Debug\addressbook_tests_autoit.csproj.CopyComplete
